@@ -46,8 +46,8 @@ Bei unserem Projekt machen wir ein Konsolenprogramm, das Hypotheken berechnet. D
 | 1.A  | 30.10.2023   | Ylli                  | Fragen an Frau Klink stellen und ein Termin vereinbaren.                                                 |
 | 1.B  | 30.10.2023   | Amar                  | Programmablaufsplan                                                                                      |
 | 1.C  | 02.11.2023   | Amar,Alan,Ylli        | Programm zu Hypotheken erstellen. Code sollte einfach sein und die Grundlagen zur Berechnung beherschen. |
-| 2.A  | 6.11.2023    | Alan (Amar ist krank) | Exceptions im Code schreiben, damit dass Programm nicht abstürzt, wenn man beim User-Input BUchstaben eingibt.                                                                            |
-| 2.B  | 6/10.11.2023 | Ylli                  | Code optimieren, refactoring wo, nötig ist                                                                                  |
+| 2.A  | 6.11.2023    | Alan (Amar ist krank) | Exceptions im Code schreiben, damit dass Programm bei eingegebenen Buchstaben nicht abstürzt.            |
+| 2.B  | 6/10.11.2023 | Ylli                  | Code optimieren, refactoring wo, nötig ist.                                                              |
 
 ✍️ Total: bspw. 26 Arbeitspakete
 
