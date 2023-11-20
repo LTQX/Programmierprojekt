@@ -1,4 +1,4 @@
-# Projekt-Dokumentation
+Projekt-Dokumentation
 
 ✍️ Ihr Nachname; bei Gruppenarbeiten Ihr Gruppenname und Ihre Nachnamen
 
@@ -52,6 +52,8 @@ Bei unserem Projekt machen wir ein Konsolenprogramm, das Hypotheken berechnet. D
 | 3.B | 13.11.2023 | Alan | Exceptions im Code abschliessen und der Gruppe vorstellen |
 | 3.C | 13.11.2023 | Alan/Amar/Ylli | Code im GUI übertragen |
 | 3.D | 13.11.2023 | Ylli | Windows Form auf MacOS zum laufen bringen (Youtbe Tutorial) |
+| 4.A | 20.11.2023 | Amar, Alan | Code zu GUI übertragen und anpassen |
+| 4.B | 20.11.2023 | Ylli | Unterstützung beim Codieren und über Prallels interessieren |
 
 ✍️ Total: bspw. 26 Arbeitspakete
 
@@ -74,9 +76,3 @@ Bei unserem Projekt machen wir ein Konsolenprogramm, das Hypotheken berechnet. D
 | --- | --- | --- | --- |
 | 1.1 |     |     |     |
 | ... |     |     |     |
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-## 6 Auswerten
-
-✍️ Beschreiben Sie, was gut an Ihrem Projekt ging, und was Sie nächstes Mal anders machen würden.
