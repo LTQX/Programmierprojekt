@@ -54,6 +54,8 @@ Bei unserem Projekt machen wir ein Konsolenprogramm, das Hypotheken berechnet. D
 | 3.D | 13.11.2023 | Ylli | Windows Form auf MacOS zum laufen bringen (Youtbe Tutorial) |
 | 4.A | 20.11.2023 | Amar, Alan | Code zu GUI übertragen und anpassen |
 | 4.B | 20.11.2023 | Ylli | Unterstützung beim Codieren und über Prallels interessieren |
+| 5.A | 27.11.2023 | Amar, Alan, Ylli | Überlegen wie man die Amortisation berechnet und im Code umsetzten kann |
+| 5.B | 27.11.2023 | Amar, Alan, Ylli | Amortisation im Code abschliessen |
 
 ✍️ Total: bspw. 26 Arbeitspakete
 
